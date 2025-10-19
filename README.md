@@ -17,8 +17,8 @@ Proyek ini adalah bagian dari Laporan Praktikum Pemrograman Berorientasi Objek (
 | :--- | :--- | :--- | :--- |
 | **Bahasa & Lingkungan** | Java Development Kit (JDK) | **24** | Lingkungan Kompilasi & Eksekusi. |
 | **IDE** | Apache NetBeans | 27 | Lingkungan Pengembangan. |
-| **Database** | PostgreSQL | *[Sebutkan Versi]* | Sumber data untuk laporan. |
-| **Desain Laporan** | Jaspersoft Studio | *[Sebutkan Versi]* | Alat desain *standalone* untuk `.jrxml`. |
+| **Database** | PostgreSQL |  | Sumber data untuk laporan. |
+| **Desain Laporan** | Jaspersoft Studio |  | Alat desain *standalone* untuk `.jrxml`. |
 
 ## 📦 Daftar Libraries (`.jar`)
 
